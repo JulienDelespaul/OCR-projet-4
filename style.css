@@ -455,7 +455,8 @@ nav .caret {
 .btn-d:hover,
 .btn-d:focus {
 	color: #fff;
-	background: rgba(0, 0, 0, 0.3);
+	background: #595959;
+	width: 150px;
 }
 
 button {
@@ -1038,6 +1039,10 @@ h4 {
 
 .icon-title {
 	font-size: 16px !important;
+}
+
+.wrap {
+	white-space: normal !important;
 }
 
 @media (max-width: 400px) {
